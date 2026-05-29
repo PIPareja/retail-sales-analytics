@@ -75,3 +75,9 @@ El modelo base muestra limitaciones — year y month solos no capturan la estaci
 |---|---|
 | `fase1_eda.ipynb` | Notebook completo con EDA y modelo |
 | `superstore.csv` | Dataset de ~10.000 transacciones retail |
+
+---
+
+## 👤 Autor
+**Pablo Pareja**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([URL_DE_TU_LINKEDIN](https://www.linkedin.com/in/ppareja/))
