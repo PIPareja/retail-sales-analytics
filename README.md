@@ -80,4 +80,4 @@ El modelo base muestra limitaciones — year y month solos no capturan la estaci
 
 ## 👤 Autor
 **Pablo Pareja**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([URL_DE_TU_LINKEDIN](https://www.linkedin.com/in/ppareja/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ppareja/)
